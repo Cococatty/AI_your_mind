@@ -1,4 +1,4 @@
-package com.cococatty.ai_mind
+package com.cococatty.ai_your_mind
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.cococatty.ai_mind", appContext.packageName)
+        assertEquals("com.cococatty.ai_your_mind", appContext.packageName)
     }
 }

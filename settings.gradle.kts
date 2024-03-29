@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ai_mind"
+rootProject.name = "AI_your_mind"
 include(":app")
  

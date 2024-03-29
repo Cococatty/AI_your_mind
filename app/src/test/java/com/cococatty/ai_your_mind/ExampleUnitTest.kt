@@ -1,4 +1,4 @@
-package com.cococatty.ai_mind
+package com.cococatty.ai_your_mind
 
 import org.junit.Test
 
